@@ -1,6 +1,6 @@
 {
   "name": "antialias-storybook",
-  "version": "1.17.2",
+  "version": "1.17.3",
   "description": "React Storybook: Isolate React Component Development with Hot Reloading. Forked and published without a namespace",
   "repository": {
     "type": "git",
